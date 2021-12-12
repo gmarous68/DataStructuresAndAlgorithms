@@ -1,5 +1,6 @@
 from BinarySearchTree import BinarySearchTree
 
+#create tree object
 my_bst = BinarySearchTree()
 
 my_bst.insert(47)
